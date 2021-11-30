@@ -1,0 +1,8 @@
+div{
+    background: var(--bs-info);
+    text-align: center;
+    height: 100px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
